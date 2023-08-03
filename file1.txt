@@ -1,0 +1,3 @@
+Hello World, 
+PS if ($?) { g++ polymorphism.cpp -o polymorphism } ;
+if ($?) { .polymorphism }
